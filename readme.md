@@ -4,6 +4,10 @@
 
 Sysmon Sentinel is an end-to-end machine learning system that classifies Windows Sysmon logs as benign or malicious using transformer-based models, ensemble learning techniques, and an interactive AI-powered analysis interface.
 
+🚀 Live Demo: https://sysmon-sentinel-8xtg-t6520tila-emiljinx-cores-projects.vercel.app
+
+🎨 Frontend-Only Deployment Repository: https://github.com/emiljinx-core/sysmon-sentinel-frontend
+
 ## ✨ Features
 
 - **🤖 Dual Transformer Models**: DistilBERT and TinyBERT fine-tuned for log classification
