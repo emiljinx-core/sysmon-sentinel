@@ -1,5 +1,0 @@
-# Exclude frontend from normal git
-/frontend/
-
-# Exclude model weights from normal git
-/models/
